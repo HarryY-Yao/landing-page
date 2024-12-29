@@ -1,0 +1,49 @@
+body {
+    height: 100vh;
+    font-family: "Roboto";
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.header, .footer {
+    background-color: #1F2937;
+}
+
+.navigation-bar {
+    display: flex;
+}
+
+.testimony {
+    background-color: #E5E7EB;
+}
+
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.footer {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    padding: 24px;
+}
+
